@@ -12,6 +12,16 @@
     opacity: 1;
   }
 
+  .logotlo{
+      width: 100px;
+      height: 100px;
+  }
+  .kappa{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
 /*---------------NavBar -----------*/
 
 nav{
