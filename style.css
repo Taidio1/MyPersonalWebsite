@@ -25,6 +25,9 @@
 .PromoText{
     font-size: 30px;
 }
+.img-fluid{
+    min-width: 100% !important;
+}
 /*---------------NavBar -----------*/
 
 nav{
