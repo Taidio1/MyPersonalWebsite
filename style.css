@@ -44,6 +44,10 @@
 .bi-x{
     color: red;
 }
+.dropdown-item{
+    color: #000000 !important;
+}
+
 /*---------------NavBar -----------*/
 
 nav{
@@ -64,10 +68,12 @@ nav{
     padding: 0 10px;
 }
 .navbar-nav li a {
-    color: #fff !important;
     font-weight: 500;
     float: right;
     text-align: left;
+}
+.fff{
+    color: #fff !important;
 }
 .fa-bars{
     color: #fff;
